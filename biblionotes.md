@@ -56,7 +56,7 @@ The quality of a body of water may be approached in terms of its uses/functions,
  
 Determinand is essentially a made-up term. They refrain from using variable, parameter, etc. 
  
-Indicators and their determinands included in the System for the Evaluation of the Quality of Water are in: Louis-CharlesOudin,“Riverquality assessment system in France”, paper presented at the International Workshop Monitoring Tailor-Made III—Information for Sustainable Water Management, Nunspeet, Netherlands, 2001. Available from http://www.mtm-conference.nl/mtm3/ docs/Oudin2001.pdf.)
+Indicators and their determinands included in the System for the Evaluation of the Quality of Water are in: Louis-CharlesOudin,“Riverquality assessment system in France”, paper presented at the International Workshop Monitoring Tailor-Made III—Information for Sustainable Water Management, Nunspeet, Netherlands, 2001. Available from http://www.mtm-conference.nl/mtm3/docs/Oudin2001.pdf.)
  
 The Millennium Ecosystem Assessment investigates functions such as services supplied by aquatic ecosystems:  
 
