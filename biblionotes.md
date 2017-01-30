@@ -25,7 +25,7 @@ Is there something akin to the European Union Water Framework Directive in Urugu
 
 What will be the defining characteristic for classification of bodies: uses/functions, objective quality indicators, deviations from averages?
 
-If the choice of determinands is the outcome of a scientic, practical, economical and political compromise, which ones will be chosen by Uruguay, and how will we accomplish that?
+If the choice of determinands is the outcome of a scientific, practical, economical and political compromise, which ones will be chosen by Uruguay, and how will we accomplish that?
 
 Which important determinands cannot be determined reliably and affordably, can we live with that? (In the context of the previously mentioned Directive, attempts are under way to standardize both the choice of determinands and the threshold values for assessing quality classes.)
 
