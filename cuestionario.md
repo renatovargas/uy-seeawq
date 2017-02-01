@@ -1,6 +1,6 @@
 # Cuestionario SEEA-UY
 
-El siguiente cuestionario está diseñado para evaluar los insumos y condiciones institucionales para la implementación del Sistema de Contabilidad Ambiental y Económica (SCAE) en Uruguay. En una primera fase de implementación, se ha decidido dar prioridad al Sistema de Contabilidad Ambiental y Económica para la Agricultura (SEEA-Agri, por sus siglas en inglés) y a un un marco de contabilidad ambiental y económica para la evaluación de la calidad del agua de la cuenca del Río Santa Lucía.
+El siguiente cuestionario está diseñado para evaluar los insumos y condiciones institucionales para la implementación del Sistema de Contabilidad Ambiental y Económica (SCAE) en Uruguay. En una primera fase de implementación, se ha decidido dar prioridad al Sistema de Contabilidad Ambiental y Económica para la Agricultura (SEEA-Agri, por sus siglas en inglés) y a un marco de contabilidad ambiental y económica para la evaluación de la calidad del agua de la cuenca del Río Santa Lucía.
 
 Las respuestas en la mayoría de casos deben entenderse como abiertas. Se sugiere responder a las preguntas con toda la información que se conozca del tema, aunque se duplique en otro módulo. Esto incluye direcciones web, referencias a nombres de documentos clave, leyes y reglamentos específicos, iniciativas de la cooperación internacional, etc..
 
