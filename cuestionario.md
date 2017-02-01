@@ -17,7 +17,7 @@ En términos de calidad de información es valioso tener acceso a datos primario
 
 ### Objetivos de política
 
-1. ¿Cuáles son las actuales áreas principales de enfoque político en relación con la producción sostenible agrícola, forestal y pesquera? 
+1. ¿Cuáles son las actuales áreas principales de enfoque político en relación con la producción sostenible agrícola, forestal y pesquera? Enumerar políticas y objetivos de política explícitos, así como unidades e instituciones a cargo de la implementación.
 
 1. ¿Existe alguna regulación para la evaluación de la calidad del agua, regulación del consumo agrícola, industrial o domiciliar, ordenamientos para la recuperación o el mantenimiento de cuerpos de agua? Hacer referencia a las leyes, resoluciones, órdenes ejecutivas, instituciones encargadas y personas de contacto. 
 
