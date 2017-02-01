@@ -15,7 +15,22 @@ Para dar valor al conocimiento colectivo, durante la sesión de trabajo se sugie
 En términos de calidad de información es valioso tener acceso a datos primarios (por ejemplo, encuestas agropecuarias o bases de datos de registros administrativos). En caso de existir simultáneamente publicaciones con tablas de resumen y bases de datos, se sugiere incluir la forma de acceder a ambos en la respuesta de este cuestionario. Aunque la pregunta no lo requiera, se tratará de incluir la periodicidad con que se generan las estadísticas o los años específicos de dónde provienen, así como la fecha del último año existente.
 
 
-# Preguntas generales
+### Objetivos de política
+
+1. ¿Cuáles son las actuales áreas principales de enfoque político en relación con la producción sostenible agrícola, forestal y pesquera? 
+
+1. ¿Existe alguna regulación para la evaluación de la calidad del agua, regulación del consumo agrícola, industrial o domiciliar, ordenamientos para la recuperación o el mantenimiento de cuerpos de agua? Hacer referencia a las leyes, resoluciones, órdenes ejecutivas, instituciones encargadas y personas de contacto. 
+
+1. ¿Existen marcos de evaluación de política (indicadores cuantitativos) definidos para estos enfoques de política? ¿Están contenidos en alguna norma, documento, etc.? ¿Qué indicadores están contemplado (hacer referencia a documentos)?
+
+1. ¿Qué oportunidades existen para el progreso en el desarrollo de estos datos? Considere tanto las iniciativas (proyectos, procesos existentes de generación estadística, como registros nacionales, licencias, bases de datos nacionales, etc.) nacionales como internacionales de estadística y políticas y analíticas.
+
+1. ¿Cuáles son los principales obstáculos para la ampliación de la cobertura de los datos? Esto podría incluir capacidad/aptitudes estadísticas, arreglos institucionales, financiamiento y los ambientes informáticos, etc.
+
+1. El punto anterior se refiere a obstáculos institucionales en sentido amplio. ¿Existen obstáculos específicos que dificulten la producción de información para cumplir con algún marco de indicadores de evaluación de política? (Por ejemplo, se debe realizar un Censo de buques y artes de pesca. No obstante, no existe aprobación de instancia 1, 2 y 3 por limitaciones técnicas/presupuestarias y se necesitaría una intervención de la cooperación en determinado monto para llevarse a cabo.)
+
+
+## Preguntas generales
 
 1. ¿Qué organizaciones, instituciones y unidades desempeñan un papel principal en la recopilación de datos sobre la actividad agrícola, forestal y pesquera? (En lo posible incluir información de contacto de personas clave en estas instancias.)
 
@@ -208,24 +223,5 @@ Este apartado deberá realizarse a nivel nacional y a nivel de la cuenca del Rí
 1. ¿Mantiene su país información sobre las existencias de equipo agrícola (por ejemplo, tractores) y la inversión correspondiente en maquinaria y equipo? De ser así ¿en qué publicaciones, sitios web, registros administrativos u otros se encuentran disponibles? ¿Existe una persona de contacto?
 
 
-### Objetivos de política
-
-1. ¿Cuáles son las actuales áreas principales de enfoque político en relación con la producción sostenible agrícola, forestal y pesquera? 
-
-1. ¿Existen marcos de evaluación de política definidos para estos enfoques de política? ¿Están contenidos en alguna norma, documento, etc.? ¿Qué indicadores están contemplado (hacer referencia a documentos)?
-
-1. ¿Qué oportunidades existen para el progreso en el desarrollo de estos datos? Considere tanto las iniciativas (proyectos, procesos existentes de generación estadística como registros nacionales, licencias, bases de datos nacionales, etc.) nacionales como internacionales de estadística y políticas y analíticas.
-
-1. ¿Cuáles son los principales obstáculos para la ampliación de la cobertura de los datos? Esto podría incluir capacidad/aptitudes estadísticas, arreglos institucionales, financiamiento y los ambientes informáticos, etc.
-
-1. El punto anterior se refiere a obstáculos institucionales en sentido amplio. ¿Existen obstáculos específicos que dificulten la producción de información para cumplir con algún marco de indicadores de evaluación de política? (Por ejemplo, se debe realizar un Censo de buques y artes de pesca. No obstante, no existe aprobación de instancia 1, 2 y 3 por limitaciones técnicas/presupuestarias y se necesitaría una intervención de la cooperación en determinado monto para llevarse a cabo.)
 
 
-### JP
-
-* Planear lo que vamos a hacer.
-* Cuentas 2-3 de Uruguay.
-* Nada de cuentas. Muy muy básico. 10 diapositivas básicas.
-* Ir vendiendo poco a poco.
-* Nada de tablas, vender el asunto, marketing mío y de las cuentas.
-* Hacer distinción entre tierra y suelo.
